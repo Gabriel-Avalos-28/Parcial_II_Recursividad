@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P10_DecimalABinario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58c9be7501b762c87fde4457b055f786894e4f6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc46191a8abbbd75552216b7dea2ace5568136b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("P10_DecimalABinario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P10_DecimalABinario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

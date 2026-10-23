@@ -27,7 +27,7 @@ class Program
     }
     static void Main()
     {
-        Console.WriteLine("|Por Gabriel Avalos e Yamil Castro")
+        Console.WriteLine("|Por Gabriel Avalos e Yamil Castro");
         Console.Write("Ingresa un numero entero: ");
         int n = int.Parse(Console.ReadLine());
         //Comprueba que n sea positivo

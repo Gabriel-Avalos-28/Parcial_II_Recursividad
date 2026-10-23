@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\P10_DecimalABinario\\P10_DecimalABinario.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\source\\repos\\Gabriel-Avalos-28\\Parcial_II_Recursividad\\P10_DecimalABinario\\P10_DecimalABinario.csproj",
       "projectName": "P10_DecimalABinario",
-      "projectPath": "E:\\P10_DecimalABinario\\P10_DecimalABinario.csproj",
+      "projectPath": "C:\\Users\\gabri\\source\\repos\\Gabriel-Avalos-28\\Parcial_II_Recursividad\\P10_DecimalABinario\\P10_DecimalABinario.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "E:\\P10_DecimalABinario\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\source\\repos\\Gabriel-Avalos-28\\Parcial_II_Recursividad\\P10_DecimalABinario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
