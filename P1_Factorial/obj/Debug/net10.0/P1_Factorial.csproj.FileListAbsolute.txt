@@ -1,0 +1,14 @@
+D:\P1_Factorial\bin\Debug\net10.0\P1_Factorial.exe
+D:\P1_Factorial\bin\Debug\net10.0\P1_Factorial.deps.json
+D:\P1_Factorial\bin\Debug\net10.0\P1_Factorial.runtimeconfig.json
+D:\P1_Factorial\bin\Debug\net10.0\P1_Factorial.dll
+D:\P1_Factorial\bin\Debug\net10.0\P1_Factorial.pdb
+D:\P1_Factorial\obj\Debug\net10.0\P1_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\P1_Factorial\obj\Debug\net10.0\P1_Factorial.AssemblyInfoInputs.cache
+D:\P1_Factorial\obj\Debug\net10.0\P1_Factorial.AssemblyInfo.cs
+D:\P1_Factorial\obj\Debug\net10.0\P1_Factorial.csproj.CoreCompileInputs.cache
+D:\P1_Factorial\obj\Debug\net10.0\P1_Factorial.dll
+D:\P1_Factorial\obj\Debug\net10.0\refint\P1_Factorial.dll
+D:\P1_Factorial\obj\Debug\net10.0\P1_Factorial.pdb
+D:\P1_Factorial\obj\Debug\net10.0\P1_Factorial.genruntimeconfig.cache
+D:\P1_Factorial\obj\Debug\net10.0\ref\P1_Factorial.dll

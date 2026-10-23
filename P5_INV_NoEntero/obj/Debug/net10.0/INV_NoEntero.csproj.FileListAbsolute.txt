@@ -1,0 +1,14 @@
+D:\INV_NoEntero\bin\Debug\net10.0\INV_NoEntero.exe
+D:\INV_NoEntero\bin\Debug\net10.0\INV_NoEntero.deps.json
+D:\INV_NoEntero\bin\Debug\net10.0\INV_NoEntero.runtimeconfig.json
+D:\INV_NoEntero\bin\Debug\net10.0\INV_NoEntero.dll
+D:\INV_NoEntero\bin\Debug\net10.0\INV_NoEntero.pdb
+D:\INV_NoEntero\obj\Debug\net10.0\INV_NoEntero.GeneratedMSBuildEditorConfig.editorconfig
+D:\INV_NoEntero\obj\Debug\net10.0\INV_NoEntero.AssemblyInfoInputs.cache
+D:\INV_NoEntero\obj\Debug\net10.0\INV_NoEntero.AssemblyInfo.cs
+D:\INV_NoEntero\obj\Debug\net10.0\INV_NoEntero.csproj.CoreCompileInputs.cache
+D:\INV_NoEntero\obj\Debug\net10.0\INV_NoEntero.dll
+D:\INV_NoEntero\obj\Debug\net10.0\refint\INV_NoEntero.dll
+D:\INV_NoEntero\obj\Debug\net10.0\INV_NoEntero.pdb
+D:\INV_NoEntero\obj\Debug\net10.0\INV_NoEntero.genruntimeconfig.cache
+D:\INV_NoEntero\obj\Debug\net10.0\ref\INV_NoEntero.dll

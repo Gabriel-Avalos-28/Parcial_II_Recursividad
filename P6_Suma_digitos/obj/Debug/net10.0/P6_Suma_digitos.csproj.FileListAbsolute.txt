@@ -1,0 +1,14 @@
+D:\P6_Suma_digitos\bin\Debug\net10.0\P6_Suma_digitos.exe
+D:\P6_Suma_digitos\bin\Debug\net10.0\P6_Suma_digitos.deps.json
+D:\P6_Suma_digitos\bin\Debug\net10.0\P6_Suma_digitos.runtimeconfig.json
+D:\P6_Suma_digitos\bin\Debug\net10.0\P6_Suma_digitos.dll
+D:\P6_Suma_digitos\bin\Debug\net10.0\P6_Suma_digitos.pdb
+D:\P6_Suma_digitos\obj\Debug\net10.0\P6_Suma_digitos.GeneratedMSBuildEditorConfig.editorconfig
+D:\P6_Suma_digitos\obj\Debug\net10.0\P6_Suma_digitos.AssemblyInfoInputs.cache
+D:\P6_Suma_digitos\obj\Debug\net10.0\P6_Suma_digitos.AssemblyInfo.cs
+D:\P6_Suma_digitos\obj\Debug\net10.0\P6_Suma_digitos.csproj.CoreCompileInputs.cache
+D:\P6_Suma_digitos\obj\Debug\net10.0\P6_Suma_digitos.dll
+D:\P6_Suma_digitos\obj\Debug\net10.0\refint\P6_Suma_digitos.dll
+D:\P6_Suma_digitos\obj\Debug\net10.0\P6_Suma_digitos.pdb
+D:\P6_Suma_digitos\obj\Debug\net10.0\P6_Suma_digitos.genruntimeconfig.cache
+D:\P6_Suma_digitos\obj\Debug\net10.0\ref\P6_Suma_digitos.dll

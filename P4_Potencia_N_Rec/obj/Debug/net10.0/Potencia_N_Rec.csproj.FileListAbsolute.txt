@@ -1,0 +1,14 @@
+D:\Potencia_N_Rec\bin\Debug\net10.0\Potencia_N_Rec.exe
+D:\Potencia_N_Rec\bin\Debug\net10.0\Potencia_N_Rec.deps.json
+D:\Potencia_N_Rec\bin\Debug\net10.0\Potencia_N_Rec.runtimeconfig.json
+D:\Potencia_N_Rec\bin\Debug\net10.0\Potencia_N_Rec.dll
+D:\Potencia_N_Rec\bin\Debug\net10.0\Potencia_N_Rec.pdb
+D:\Potencia_N_Rec\obj\Debug\net10.0\Potencia_N_Rec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Potencia_N_Rec\obj\Debug\net10.0\Potencia_N_Rec.AssemblyInfoInputs.cache
+D:\Potencia_N_Rec\obj\Debug\net10.0\Potencia_N_Rec.AssemblyInfo.cs
+D:\Potencia_N_Rec\obj\Debug\net10.0\Potencia_N_Rec.csproj.CoreCompileInputs.cache
+D:\Potencia_N_Rec\obj\Debug\net10.0\Potencia_N_Rec.dll
+D:\Potencia_N_Rec\obj\Debug\net10.0\refint\Potencia_N_Rec.dll
+D:\Potencia_N_Rec\obj\Debug\net10.0\Potencia_N_Rec.pdb
+D:\Potencia_N_Rec\obj\Debug\net10.0\Potencia_N_Rec.genruntimeconfig.cache
+D:\Potencia_N_Rec\obj\Debug\net10.0\ref\Potencia_N_Rec.dll

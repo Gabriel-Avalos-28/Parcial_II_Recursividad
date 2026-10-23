@@ -1,0 +1,14 @@
+D:\P10_DecimalABinario\bin\Debug\net10.0\P10_DecimalABinario.exe
+D:\P10_DecimalABinario\bin\Debug\net10.0\P10_DecimalABinario.deps.json
+D:\P10_DecimalABinario\bin\Debug\net10.0\P10_DecimalABinario.runtimeconfig.json
+D:\P10_DecimalABinario\bin\Debug\net10.0\P10_DecimalABinario.dll
+D:\P10_DecimalABinario\bin\Debug\net10.0\P10_DecimalABinario.pdb
+D:\P10_DecimalABinario\obj\Debug\net10.0\P10_DecimalABinario.GeneratedMSBuildEditorConfig.editorconfig
+D:\P10_DecimalABinario\obj\Debug\net10.0\P10_DecimalABinario.AssemblyInfoInputs.cache
+D:\P10_DecimalABinario\obj\Debug\net10.0\P10_DecimalABinario.AssemblyInfo.cs
+D:\P10_DecimalABinario\obj\Debug\net10.0\P10_DecimalABinario.csproj.CoreCompileInputs.cache
+D:\P10_DecimalABinario\obj\Debug\net10.0\P10_DecimalABinario.dll
+D:\P10_DecimalABinario\obj\Debug\net10.0\refint\P10_DecimalABinario.dll
+D:\P10_DecimalABinario\obj\Debug\net10.0\P10_DecimalABinario.pdb
+D:\P10_DecimalABinario\obj\Debug\net10.0\P10_DecimalABinario.genruntimeconfig.cache
+D:\P10_DecimalABinario\obj\Debug\net10.0\ref\P10_DecimalABinario.dll
