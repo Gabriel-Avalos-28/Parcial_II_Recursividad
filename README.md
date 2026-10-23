@@ -13,7 +13,7 @@ Factorial
 Programa desarrollado en C# que calcula el factorial de un número entero entre 0 y 20 mediante recursividad directa.
 
 ### Lenguaje
-C#
+`C#`
 
 ### IDE
 Visual Studio
@@ -36,8 +36,7 @@ Serie Fibonacci
 Programa desarrollado en C# que obtiene el número correspondiente a una posición de la serie Fibonacci, utilizando recursividad directa. Acepta posiciones entre 0 y 40.
 
 ### Lenguaje
-C#
-
+`C#`
 ### IDE
 Visual Studio
 
@@ -59,7 +58,7 @@ Suma de números anteriores
 Programa desarrollado en C# que calcula la suma de los números enteros desde 1 hasta el número ingresado, mediante recursividad directa. Acepta valores entre 0 y 10,000.
 
 ### Lenguaje
-C#
+`C#`
 
 ### IDE
 Visual Studio
@@ -82,7 +81,7 @@ Potencia de un número
 Programa desarrollado en C# que calcula la potencia de una base elevada a un exponente entero entre 0 y 30, mediante recursividad directa.
 
 ### Lenguaje
-C#
+`C#`
 
 ### IDE
 Visual Studio
@@ -106,7 +105,7 @@ Invertir un número entero
 Programa desarrollado en C# que invierte el orden de los dígitos de un número entero no negativo utilizando recursividad directa y un acumulador para construir el resultado invertido.
 
 ### Lenguaje
-C#
+`C#`
 
 ### IDE
 Visual Studio
@@ -130,7 +129,7 @@ Suma de dígitos
 Programa desarrollado en C# que calcula la suma de los dígitos de un número entero no negativo mediante recursividad directa, separando el último dígito y procesando los restantes.
 
 ### Lenguaje
-C#
+`C#`
 
 ### IDE
 Visual Studio
@@ -154,7 +153,7 @@ Determinar si un número es par o impar
 Programa desarrollado en C# que determina si un número entero entre 0 y 10,000 es par o impar mediante dos métodos, `EsPar` y `EsImpar`, que se llaman entre sí de forma recursiva.
 
 ### Lenguaje
-C#
+`C#`
 
 ### IDE
 Visual Studio
@@ -178,7 +177,7 @@ Cuenta regresiva con recursividad indirecta
 Programa desarrollado en C# que muestra una cuenta regresiva desde el número ingresado hasta cero, alternando entre los métodos `CuentaA` y `CuentaB`. Acepta valores entre 0 y 1,000.
 
 ### Lenguaje
-C#
+`C#`
 
 ### IDE
 Visual Studio
@@ -202,7 +201,7 @@ Suma de números mediante recursividad indirecta
 Programa desarrollado en C# que utiliza los métodos `SumaA` y `SumaB`, los cuales se llaman mutuamente para realizar una suma recursiva. En su implementación actual, suma el número ingresado y los valores alternos descendentes hasta llegar a cero, en lugar de sumar todos los números consecutivos.
 
 ### Lenguaje
-C#
+`C#`
 
 ### IDE
 Visual Studio
@@ -226,7 +225,7 @@ Conversión de decimal a binario
 Programa desarrollado en C# que convierte un número entero no negativo a su representación binaria utilizando división entera entre dos, residuos y dos métodos recursivos que se llaman entre sí.
 
 ### Lenguaje
-C#
+`C#`
 
 ### IDE
 Visual Studio
