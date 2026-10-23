@@ -1,8 +1,8 @@
 # Parcial_II_Recursividad
 ## Datos del alumno
-Nombre: Gabriel Angel Avalos Silva;
-Número de control: 26410012;
-Carrera: Ingeniería en Sistemas Computacionales;
+Nombre: Gabriel Angel Avalos Silva
+Número de control: 26410012
+Carrera: Ingeniería en Sistemas Computacionales
 Materia: Estructuras de Datos
 ## Prorgama 1
 ### Nombre
